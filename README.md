@@ -38,7 +38,7 @@ Implementing replicated, clustered and consistent embedded DB in Go using badger
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">Best-README-Template</h3>
+  <h3 align="center">Statick -  Multi Group RAFT Conensus Key Value Data Store</h3>
 
   <p align="center">
     An awesome README template to jumpstart your projects!
